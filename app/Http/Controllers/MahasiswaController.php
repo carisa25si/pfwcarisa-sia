@@ -53,7 +53,7 @@ class MahasiswaController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function upda(Request $request, string $id)
+    public function update(Request $request, string $id)
     {
         //
     }
